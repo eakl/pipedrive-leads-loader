@@ -1,0 +1,9 @@
+# General
+.*
+*.log
+*.lock
+!.gitignore
+
+# Node / NPM
+node_modules
+npm-debug.log

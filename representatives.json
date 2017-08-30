@@ -1,0 +1,9 @@
+{
+  "representative1@taskworld.com": ["JP"],
+  "representative2@taskworld.com": ["US", "CA", "GB", "NZ", "AU"],
+  "representative3@taskworld.com": ["FR", "IT", "ES", "NL", "DK", "SE", "NO", "FI", "BE"],
+  "representative4@taskworld.com": ["KR"],
+  "representative5@taskworld.com": ["DE", "CH", "AT"],
+  "representative6@taskworld.com": ["IN"],
+  "default@taskworld.com": ["OTHER"]
+}

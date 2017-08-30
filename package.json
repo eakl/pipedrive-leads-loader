@@ -1,0 +1,17 @@
+{
+  "name": "pipedrive-leads-loader",
+  "version": "1.0.0",
+  "description": "Automatically load leads to Pipedrive",
+  "main": "index.js",
+  "author": "eakl",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.102.0",
+    "fast-csv": "^2.4.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "pipedrive": "^3.0.2",
+    "sendgrid": "^5.2.2"
+  }
+}
